@@ -1,0 +1,5 @@
+/home/milen/Projects/Stack_and_Queues/2.Simple_Calculator/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/milen/Projects/Stack_and_Queues/2.Simple_Calculator/bin/Debug/2.Simple_Calculator.pdb
+/home/milen/Projects/Stack_and_Queues/2.Simple_Calculator/bin/Debug/2.Simple_Calculator.exe
+/home/milen/Projects/Stack_and_Queues/2.Simple_Calculator/obj/x86/Debug/2.Simple_Calculator.exe
+/home/milen/Projects/Stack_and_Queues/2.Simple_Calculator/obj/x86/Debug/2.Simple_Calculator.pdb

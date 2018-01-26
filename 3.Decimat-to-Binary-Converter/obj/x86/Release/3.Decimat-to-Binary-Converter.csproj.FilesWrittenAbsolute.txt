@@ -1,0 +1,3 @@
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/obj/x86/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/bin/Release/3.Decimat-to-Binary-Converter.exe
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/obj/x86/Release/3.Decimat-to-Binary-Converter.exe

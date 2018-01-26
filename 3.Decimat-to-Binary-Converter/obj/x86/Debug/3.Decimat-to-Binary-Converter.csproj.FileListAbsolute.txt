@@ -1,0 +1,5 @@
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/bin/Debug/3.Decimat-to-Binary-Converter.exe
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/bin/Debug/3.Decimat-to-Binary-Converter.pdb
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/obj/x86/Debug/3.Decimat-to-Binary-Converter.csproj.CoreCompileInputs.cache
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/obj/x86/Debug/3.Decimat-to-Binary-Converter.exe
+/home/milen/Projects/Stack_and_Queues/3.Decimat-to-Binary-Converter/obj/x86/Debug/3.Decimat-to-Binary-Converter.pdb
