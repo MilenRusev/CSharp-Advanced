@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F94EED31-91FC-4C2A-A7C0-0B295B9B4AB7}</ProjectGuid>
+    <ProjectGuid>{704494C8-7472-4F87-81CB-203F7BB1E2BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SimpleCalculator</RootNamespace>
-    <AssemblyName>2.Simple-Calculator</AssemblyName>
+    <RootNamespace>ReverseString</RootNamespace>
+    <AssemblyName>01.Reverse-String</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
