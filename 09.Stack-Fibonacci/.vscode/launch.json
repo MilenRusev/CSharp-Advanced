@@ -10,7 +10,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}//home/milen/Projects/Stack_and_Queues/01.Reverse-String.csproj",
+            "program": "${workspaceRoot}/01.Reverse-String.csproj",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
