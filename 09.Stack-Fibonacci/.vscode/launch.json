@@ -4,12 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/<target-framework>/<project-name.dll>",
+            "program": "${workspaceRoot}//home/milen/Projects/Stack_and_Queues/01.Reverse-String.csproj",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
