@@ -10,7 +10,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/01.Reverse-String.cs",
+            "program": "${workspaceRoot}/09.Stack-Fibonacci.csproj",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
